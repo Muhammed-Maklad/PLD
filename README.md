@@ -18,7 +18,7 @@ The Maklad Language Development Project is a Project aimed at creating a new pro
 7. [List](list)
 8. [Dictionary](#Dictionary)
     
-9. [Errors Handling](#Errors)
+9. [Errors Handling](#Errors-Handling)
 10. [Printing](#Printing)
 11. [Comment](#Comment)
 12. [Class](#Class)
@@ -119,7 +119,7 @@ myDict = { "name": "Muhammed", "age": 20 }
 
 
 
-## Errors Handling 
+## Errors-Handling 
 
 
 ```Maklad
