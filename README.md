@@ -192,8 +192,12 @@ s.displayInfo()
 ```
 
 ## My-Application
-My application is a Windows Forms application built using the C# programming language. It facilitates parsing of a custom language, allowing users to view lexemes and tokens generated during the parsing process.
+My application is a Windows Forms application built using the C# programming language. It facilitates parsing of a custom language, allowing users to view lexemes and tokens generated during the parsing process.<br><br><br>
 
+<p float="left">
+  <img src="https://github.com/Muhammed-Maklad/PLD/assets/119490645/0e3d00ad-80e2-47f6-bbd5-c521c664ed6f" width="400" />
+  <img src="https://github.com/Muhammed-Maklad/PLD/assets/119490645/4ba90c26-2fb6-4a6a-8b2d-fb6ef9b725c9" width="400" /> 
+</p>
 
 ### How to Use
 Enter your custom code into the text box.
